@@ -1,0 +1,20 @@
+{
+  "name": "javascript_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "even_or_odd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziaurabdirahman/javascript_exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziaurabdirahman/javascript_exercises/issues"
+  },
+  "homepage": "https://github.com/ziaurabdirahman/javascript_exercises#readme"
+}
